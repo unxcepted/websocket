@@ -1,3 +1,7 @@
+# fork
+
+This fork removes useless external deps, updates the others, and removes js builds. No code changes.
+
 # websocket
 
 [![godoc](https://godoc.org/nhooyr.io/websocket?status.svg)](https://pkg.go.dev/nhooyr.io/websocket)
